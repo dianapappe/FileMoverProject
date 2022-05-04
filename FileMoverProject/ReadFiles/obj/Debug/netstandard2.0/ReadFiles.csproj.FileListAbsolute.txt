@@ -1,0 +1,17 @@
+C:\Users\Diana\Documents\Diana\Udemy\NFR_Test_FileMover\FileMoverProject\FileMoverProject\ReadFiles\bin\Debug\netstandard2.0\ReadFiles.deps.json
+C:\Users\Diana\Documents\Diana\Udemy\NFR_Test_FileMover\FileMoverProject\FileMoverProject\ReadFiles\bin\Debug\netstandard2.0\ReadFiles.dll
+C:\Users\Diana\Documents\Diana\Udemy\NFR_Test_FileMover\FileMoverProject\FileMoverProject\ReadFiles\bin\Debug\netstandard2.0\ReadFiles.pdb
+C:\Users\Diana\Documents\Diana\Udemy\NFR_Test_FileMover\FileMoverProject\FileMoverProject\ReadFiles\obj\Debug\netstandard2.0\ReadFiles.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Documents\Diana\Udemy\NFR_Test_FileMover\FileMoverProject\FileMoverProject\ReadFiles\obj\Debug\netstandard2.0\ReadFiles.AssemblyInfoInputs.cache
+C:\Users\Diana\Documents\Diana\Udemy\NFR_Test_FileMover\FileMoverProject\FileMoverProject\ReadFiles\obj\Debug\netstandard2.0\ReadFiles.AssemblyInfo.cs
+C:\Users\Diana\Documents\Diana\Udemy\NFR_Test_FileMover\FileMoverProject\FileMoverProject\ReadFiles\obj\Debug\netstandard2.0\ReadFiles.dll
+C:\Users\Diana\Documents\Diana\Udemy\NFR_Test_FileMover\FileMoverProject\FileMoverProject\ReadFiles\obj\Debug\netstandard2.0\ReadFiles.pdb
+C:\Users\Diana\Documents\GitHub\FileMoverProject\FileMoverProject\ReadFiles\bin\Debug\netstandard2.0\ReadFiles.deps.json
+C:\Users\Diana\Documents\GitHub\FileMoverProject\FileMoverProject\ReadFiles\bin\Debug\netstandard2.0\ReadFiles.dll
+C:\Users\Diana\Documents\GitHub\FileMoverProject\FileMoverProject\ReadFiles\bin\Debug\netstandard2.0\ReadFiles.pdb
+C:\Users\Diana\Documents\GitHub\FileMoverProject\FileMoverProject\ReadFiles\obj\Debug\netstandard2.0\ReadFiles.csprojAssemblyReference.cache
+C:\Users\Diana\Documents\GitHub\FileMoverProject\FileMoverProject\ReadFiles\obj\Debug\netstandard2.0\ReadFiles.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Documents\GitHub\FileMoverProject\FileMoverProject\ReadFiles\obj\Debug\netstandard2.0\ReadFiles.AssemblyInfoInputs.cache
+C:\Users\Diana\Documents\GitHub\FileMoverProject\FileMoverProject\ReadFiles\obj\Debug\netstandard2.0\ReadFiles.AssemblyInfo.cs
+C:\Users\Diana\Documents\GitHub\FileMoverProject\FileMoverProject\ReadFiles\obj\Debug\netstandard2.0\ReadFiles.dll
+C:\Users\Diana\Documents\GitHub\FileMoverProject\FileMoverProject\ReadFiles\obj\Debug\netstandard2.0\ReadFiles.pdb

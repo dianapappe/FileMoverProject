@@ -1,0 +1,17 @@
+C:\Users\Diana\Documents\Diana\Udemy\NFR_Test_FileMover\FileMoverProject\FileMoverProject\WriteFile\bin\Debug\netstandard2.0\WriteFile.deps.json
+C:\Users\Diana\Documents\Diana\Udemy\NFR_Test_FileMover\FileMoverProject\FileMoverProject\WriteFile\bin\Debug\netstandard2.0\WriteFile.dll
+C:\Users\Diana\Documents\Diana\Udemy\NFR_Test_FileMover\FileMoverProject\FileMoverProject\WriteFile\bin\Debug\netstandard2.0\WriteFile.pdb
+C:\Users\Diana\Documents\Diana\Udemy\NFR_Test_FileMover\FileMoverProject\FileMoverProject\WriteFile\obj\Debug\netstandard2.0\WriteFile.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Documents\Diana\Udemy\NFR_Test_FileMover\FileMoverProject\FileMoverProject\WriteFile\obj\Debug\netstandard2.0\WriteFile.AssemblyInfoInputs.cache
+C:\Users\Diana\Documents\Diana\Udemy\NFR_Test_FileMover\FileMoverProject\FileMoverProject\WriteFile\obj\Debug\netstandard2.0\WriteFile.AssemblyInfo.cs
+C:\Users\Diana\Documents\Diana\Udemy\NFR_Test_FileMover\FileMoverProject\FileMoverProject\WriteFile\obj\Debug\netstandard2.0\WriteFile.dll
+C:\Users\Diana\Documents\Diana\Udemy\NFR_Test_FileMover\FileMoverProject\FileMoverProject\WriteFile\obj\Debug\netstandard2.0\WriteFile.pdb
+C:\Users\Diana\Documents\GitHub\FileMoverProject\FileMoverProject\WriteFile\bin\Debug\netstandard2.0\WriteFile.deps.json
+C:\Users\Diana\Documents\GitHub\FileMoverProject\FileMoverProject\WriteFile\bin\Debug\netstandard2.0\WriteFile.dll
+C:\Users\Diana\Documents\GitHub\FileMoverProject\FileMoverProject\WriteFile\bin\Debug\netstandard2.0\WriteFile.pdb
+C:\Users\Diana\Documents\GitHub\FileMoverProject\FileMoverProject\WriteFile\obj\Debug\netstandard2.0\WriteFile.csprojAssemblyReference.cache
+C:\Users\Diana\Documents\GitHub\FileMoverProject\FileMoverProject\WriteFile\obj\Debug\netstandard2.0\WriteFile.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Documents\GitHub\FileMoverProject\FileMoverProject\WriteFile\obj\Debug\netstandard2.0\WriteFile.AssemblyInfoInputs.cache
+C:\Users\Diana\Documents\GitHub\FileMoverProject\FileMoverProject\WriteFile\obj\Debug\netstandard2.0\WriteFile.AssemblyInfo.cs
+C:\Users\Diana\Documents\GitHub\FileMoverProject\FileMoverProject\WriteFile\obj\Debug\netstandard2.0\WriteFile.dll
+C:\Users\Diana\Documents\GitHub\FileMoverProject\FileMoverProject\WriteFile\obj\Debug\netstandard2.0\WriteFile.pdb
